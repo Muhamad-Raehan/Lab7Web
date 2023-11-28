@@ -6,9 +6,9 @@ nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitun
 umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang
 berbeda-beda sesuai pilihan pekerjaan.
 
-<img width="960" alt="Gambar kode from tugas" src="https://github.com/Akramfarrasanto/Lab7Web/assets/115552876/397bda9e-f991-4444-a38e-0e56a3afb0b8">
+![11](https://github.com/Muhamad-Raehan/Lab7Web/assets/116246238/ede71400-c326-44e8-88a8-404373e2d183)
 
-<img width="960" alt="Gambar hasil kode from tugas " src="https://github.com/Akramfarrasanto/Lab7Web/assets/115552876/77ab72ed-273e-40b8-8faa-c75e6e8b7171">
+![hasil 11](https://github.com/Muhamad-Raehan/Lab7Web/assets/116246238/a6d94712-3145-46c1-b182-672a48af1279)
 
 
 ## PHP Dasar
